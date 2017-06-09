@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = 'Everton da Rosa'
 SITENAME = 'Contabilidade Pública'
 SITESUBTITLE = 'Ideias e reflexões sobre Contabilidade Pública'
-SITEURL = 'https://contabilidadepublica.github.io'
-GITHUB_URL = 'https://github.com/everton3x/contabilidadepublica.github.io'
+SITEURL = 'https://contabilidadepublica.orgfree.com'
+GITHUB_URL = 'https://github.com/everton3x/contabilidadepublica.orgfree.com'
 
 PATH = 'content'
 PAGE_PATHS = ['pages']
@@ -14,8 +14,11 @@ ARTICLE_PATHS = ['posts']
 STATIC_PATHS = ['images', 'files']
 
 TIMEZONE = 'America/Sao_Paulo'
+DEFAULT_DATE_FORMAT = '%d/%m/%Y'
 
 DEFAULT_LANG = 'pt'
+
+GOOGLE_ANALYTICS = 'UA-81908417-1'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
