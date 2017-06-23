@@ -18,8 +18,12 @@ TIMEZONE = 'America/Sao_Paulo'
 DEFAULT_DATE_FORMAT = '%d/%m/%Y'
 
 DEFAULT_LANG = 'pt'
+DEFAULT_DATE = 'fs'
 
-#GOOGLE_ANALYTICS = 'UA-100940919-1'
+
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
+USE_FOLDER_AS_CATEGORY = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -30,11 +34,14 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Everton da Rosa', 'https://everton3x.github.io/'),
-         ('Fórum sobre Contabilidade Pública', 'http://www.contabeis.com.br/forum/foruns/8/contabilidade-publica/')
+		('Hello World', 'https://everton3x.github.io/helloworld/'),
+        ('Contabilidade Pública', 'https://everton3x.github.io/contabilidadpublica'),
+        ('Fórum sobre Contabilidade Pública', 'http://www.contabeis.com.br/forum/foruns/8/contabilidade-publica/')
 )
 
 # Social widget
 SOCIAL = (('Facebook', 'https://facebook.com/everton3x'),
+			('Twitter', 'https://twitter.com/everton3x'),
           ('Medium', 'https://medium.com/everton3x'),)
 
 DEFAULT_PAGINATION = 10
@@ -42,7 +49,24 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-THEME = 'pelican-clean-blog'
+MENUITEMS = (('Início', 'index.html'),
+	('Categorias', 'categories.html'),
+	('Tags', 'tags.html'),
+	('Autores', 'authors.html'),
+	('Arquivos', 'archives.html')
+)
 
-# pelican-clean-blog config https://github.com/gilsondev/pelican-clean-blog
-FACEBOOK_URL = 'http://facebook.com/everton3x'
+# attila
+THEME = 'attila'
+HEADER_COVER = 'static/pexels-photo-169657-1.jpeg'
+#HEADER_COLOR = 'black'
+AUTHORS_BIO = {
+  "everton da rosa": {
+    "name": "Everton da Rosa",
+    "cover": "https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png",
+    "image": "https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png",
+    "website": "https://everton3x.github.io",
+    "location": "Três de Maio - Rio Grande do Sul - Brasil",
+    "bio": "Contador Público Municipal e apaixonado por programação."
+  }
+}
