@@ -1,7 +1,7 @@
 Title: Reabertura de Créditos Especiais e o seu reflexo no Superávit Financeiro
 Date: 2016-08-13 14:59
 Modified: 2017-07-04
-Category: Contabilidade, Orçamento
+Category: Orçamento
 Tags: superavit financeiro, crédito adicional, reabertura
 Summary: Estava um dia desses me perguntando sobre qual a fonte de recursos a ser utilizada quando reabro um crédito especial com base no § 2º do art. 167 da Constituição da República:
 

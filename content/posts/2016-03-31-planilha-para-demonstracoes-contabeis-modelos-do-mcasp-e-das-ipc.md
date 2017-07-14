@@ -1,8 +1,8 @@
 Title: Planilha para Demonstrações Contábeis (modelos do MCASP e das IPCs)
 Date: 2016-03-31 19:00
 Status: published
-Category: Ferramentas, Contabilidade
-Tags: DCASP, ferramentas, demonstrações contábeis
+Category: Material
+Tags: DCASP, ferramentas, demonstrações contábeis, contabilidade
 Summary: Planilhas para preenchimento das Demonstrações Contábeis Aplicadas ao Setor Público
 
 

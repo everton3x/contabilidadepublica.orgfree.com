@@ -1,7 +1,7 @@
 Title: Planilha para apuração da Dívida Consolidada Líquida de acordo com a IN TCE/RS nº 06/2017
 Date: 2017-07-12
 Modified: 2017-07-13
-Category: Material, LRF
+Category: Material
 Tags: LRF, ferramentas, despesa com pessoal
 Summary: Esta é uma planilha do LibreOffice/Excel para cálculo da Dívida Consolidada Líquida de acordo com a Instrução Normativa nº 06/2017, do TCE/RS.
 

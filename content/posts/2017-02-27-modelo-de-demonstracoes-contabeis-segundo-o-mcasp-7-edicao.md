@@ -1,7 +1,7 @@
 Title: Modelo de Demonstrações Contábeis segundo o MCASP 7ª edição
 Date: 2017-02-27
 Status: published
-Category: Ferramentas, Contabilidade
+Category: Material
 Tags: DCASP, ferramentas, demonstrações contábeis
 
 Após um longo lapso de tempo sem postar nada (também pudera, é janeiro e o SIOPE é até o dia 30), disponibilizo as planilhas para elaboração das Demonstrações Contábeis seguindo os modelos do MCASP 7ª edição.

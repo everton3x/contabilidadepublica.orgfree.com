@@ -49,16 +49,16 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-MENUITEMS = (('Início', 'index.html'),
-	('Categorias', 'categories.html'),
-	('Tags', 'tags.html'),
-	('Autores', 'authors.html'),
-	('Arquivos', 'archives.html')
+MENUITEMS = (('Início', '/index.html'),
+	('Categorias', '/categories.html'),
+	('Tags', '/tags.html'),
+	('Autores', '/authors.html'),
+	('Arquivos', '/archives.html')
 )
 
 # attila
 THEME = 'attila'
-HEADER_COVER = 'images/contabilidade-2.jpg'
+HEADER_COVER = '/images/contabilidade-2.jpg'
 #HEADER_COLOR = 'black'
 AUTHORS_BIO = {
   "everton da rosa": {

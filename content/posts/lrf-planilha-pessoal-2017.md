@@ -1,6 +1,6 @@
 Title: Planilha para apuração da RCL e da despesa total com pessoal (Metodologias STN e TCE/RS) - 2017
-Category: LRF
-Tags: rgf, pessoal
+Category: Material
+Tags: rgf, pessoal, LRF
 
 Nova planilha, revisada e atualizada, para apuração da RLC e da Despesa Total com Pessoal da LRF, com as metodologias da STN (MDF) e do TCE/RS.
 

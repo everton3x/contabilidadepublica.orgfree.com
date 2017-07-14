@@ -1,7 +1,7 @@
 Title: Planilha para avaliação orçamentária e financeira
 Date: 2016-05-17 18:30
 Status: published
-Category: Ferramentas, Orçamento
+Category: Material
 Tags: orçamento, programação financeira, ferramentas
 Summary: A avaliação da programação financeira, além de ser exigência legal, deve ser feita periodicamente por se tratar de importante ferramenta de gestão e controle das contas públicas.
 

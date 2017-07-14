@@ -1,6 +1,6 @@
 Title: Superávit Financeiro, Frustração de Arrecadação e Créditos Adicionais
 Date: 2016-08-17 21:40
-Category: Contabilidade, Orçamento
+Category: Orçamento
 Tags: superavit financeiro, crédito adicional, frustração de arrecadação
 Summary: Hoje pela manhã eu e o Secretário da Fazenda estávamos discutindo a possibilidade de utilização do superávit financeiro para a abertura de crédito suplementar em algumas fontes de recursos vinculados para poder "liberar" algum recurso livre, tão escasso nesta época.
 

@@ -1,7 +1,7 @@
 Title: Planilha para RCL e Despesa Total com Pessoal segundo TCE/RS e STN
 Date: 2016-07-25 19:00
 Status: published
-Category: Ferramentas, LRF
+Category: Material
 Tags: LRF, ferramentas, despesa com pessoal
 Summary: Esta é uma planilha do Excel para cálculo da RCL e da Despesa Total com Pessoal de acordo com as metodologias do TCE/RS e da STN.
 

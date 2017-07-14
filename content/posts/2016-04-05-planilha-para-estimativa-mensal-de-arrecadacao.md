@@ -1,7 +1,7 @@
 Title: Planilha para estimativa mensal de arrecadação
 Date: 2016-04-05 19:00
 Status: published
-Category: Ferramentas, Orçamento
+Category: Material
 Tags: orçamento, ferramentas, estimativa de arrecadação
 Summary: Quem trabalha com a elaboração do orçamento e a sua avaliação sabe que são necessárias estimativas mensais de arrecadação para a definição e avaliação da programação financeira.
 

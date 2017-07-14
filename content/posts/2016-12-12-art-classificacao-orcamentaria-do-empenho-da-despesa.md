@@ -1,6 +1,6 @@
 Title: Anotação de Responsabilidade Técnica (ART): Classificação orçamentária do empenho da despesa
 Date: 2016-12-12
-Category: Contabilidade, Orçamento, Despesa
+Category: Orçamento
 Tags: ART, classificação orçamentária
 
 O pagamento de Anotações de Responsabilidade Técnica (ART) ao Conselho Regional de Engenharia e Arquitetura (CREA) é uma constante sempre que há serviços de engenharia realizados ou contratados pelo poder público.

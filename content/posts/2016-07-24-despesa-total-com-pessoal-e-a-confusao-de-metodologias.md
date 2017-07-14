@@ -1,8 +1,8 @@
 Title: Despesa Total com Pessoal e a Confusão de Metodologias
 Date: 2016-07-24 21:17
 Status: published
-Category: Opinião, Contabilidade, Orçamento, Responsabilidade Fiscal
-Tags: despesa com pessoal, LRF
+Category: Opinião
+Tags: despesa com pessoal, LRF, Contabilidade, Orçamento, Responsabilidade Fiscal
 Summary: Em 2015, o município do qual sou contador apresentou uma situação um tanto quanto esdrúxula: o índice de Despesa Total com Pessoal publicado no RGF ultrapassou o limite de 54%, porém o limite apurado no PAD ficou abaixo desse limite. Mas pode isso Arnaldo?
 
 Em 2015, o município do qual sou contador apresentou uma situação um tanto quanto esdrúxula: o índice de Despesa Total com Pessoal publicado no RGF ultrapassou o limite de 54%, porém o limite apurado no PAD ficou abaixo desse limite. Mas pode isso Arnaldo?

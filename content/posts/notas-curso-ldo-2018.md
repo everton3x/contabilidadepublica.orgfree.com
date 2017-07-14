@@ -1,6 +1,6 @@
 Title: Notas tomadas no curso de LDO 2018
 Category: Orçamento
-Tags: LDO
+Tags: LDO, curso
 
 Algumas notas minhas tomadas no curso de LDO para 2018 promovido pela DPM.
 

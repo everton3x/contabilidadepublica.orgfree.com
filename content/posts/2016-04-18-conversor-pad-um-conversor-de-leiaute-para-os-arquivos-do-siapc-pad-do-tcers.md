@@ -1,8 +1,8 @@
 Title: Conversor PAD : um conversor de leiaute para os arquivos do SIAPC/PAD do TCE/RS
 Date: 2016-04-18 13:56
 Status: published
-Category: Ferramentas, TCE/RS
-Tags: PAD, ferramentas
+Category: Material
+Tags: PAD, ferramentas, TCE/RS
 Summary:A ferramenta Conversor PAD é um conversor de leiaute para os arquivos de dados gerados para o Programa Autenticador de Dados (PAD) do sistema SIAPC do TCE/RS.
 
 A ferramenta Conversor PAD é um conversor de leiaute para os arquivos de dados gerados para o Programa Autenticador de Dados (PAD) do sistema SIAPC do TCE/RS.

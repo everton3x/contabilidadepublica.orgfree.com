@@ -1,7 +1,7 @@
 Title: Planilha para preenchimento do SIOPS
 Date: 2016-03-16 08:18
 Status: published
-Category: Ferramentas, SIOPS
+Category: Material
 Tags: SIOPS, ferramentas
 Summary: Nesta planilha do Excel você vai digitar os valores de receitas, despesas e saldos financeiros (na aba DADOS e vai imprimir as demais planilhas que são as "auxiliares" para preenchimento do SIOPS.
 
