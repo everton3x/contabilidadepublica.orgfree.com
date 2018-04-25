@@ -120,7 +120,7 @@ publish:
 github: publish
 #	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git add --all
-	git commit -m "Generate Pelican site"
+	git commit
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 # .PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
