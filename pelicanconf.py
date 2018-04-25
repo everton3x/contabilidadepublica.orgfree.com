@@ -20,7 +20,6 @@ DEFAULT_DATE_FORMAT = '%d/%m/%Y'
 DEFAULT_LANG = 'pt'
 DEFAULT_DATE = 'fs'
 
-
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 USE_FOLDER_AS_CATEGORY = False
@@ -34,15 +33,16 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Everton da Rosa', 'https://everton3x.github.io/'),
-		('Hello World', 'https://everton3x.github.io/helloworld/'),
+		# ('Hello World', 'https://everton3x.github.io/helloworld/'),
         ('Contabilidade Pública', 'https://everton3x.github.io/contabilidadpublica'),
         ('Fórum sobre Contabilidade Pública', 'http://www.contabeis.com.br/forum/foruns/8/contabilidade-publica/')
 )
 
 # Social widget
 SOCIAL = (('Facebook', 'https://facebook.com/everton3x'),
-			('Twitter', 'https://twitter.com/everton3x'),
-          ('Medium', 'https://medium.com/everton3x'),)
+			# ('Twitter', 'https://twitter.com/everton3x'),
+          ('Medium', 'https://medium.com/everton3x'),
+          ('Github', 'https://github.com/everton3x'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -57,7 +57,7 @@ MENUITEMS = (('Início', '/index.html'),
 )
 
 # attila
-THEME = 'attila'
+THEME = 'themes/attila'
 HEADER_COVER = '/images/contabilidade-2.jpg'
 #HEADER_COLOR = 'black'
 AUTHORS_BIO = {
@@ -67,6 +67,6 @@ AUTHORS_BIO = {
     "image": "https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png",
     "website": "https://everton3x.github.io",
     "location": "Três de Maio - Rio Grande do Sul - Brasil",
-    "bio": "Contador Público Municipal e apaixonado por programação."
+    "bio": "Contador Público Municipal e apaixonado por programação e foguetemodelismo."
   }
 }
