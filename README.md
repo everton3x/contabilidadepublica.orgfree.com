@@ -28,11 +28,11 @@ Como dito na seção anterior, você pode buscar o conteúdo diretamente navegan
 
 Para navegar pelo conteúdo, basca acessar diretamente os diretórios disponíveis. Se não estiver aparecendo nenhum, clique no item **Code**.
 
-![Exemplo de navegação](imagens/github-navegando.png)
+![Exemplo de navegação](assets/imagens/github-navegando.png)
 
 Caso você opte por usar a ferramenta de busca do **GitHub**, então basta clicar na caixa de pesquisalocalizada no topo esquerdo da página, como mostrado na imagem.
 
-![Caxia de pesquisa](imagens/github-caixa-de-pesquisa.png)
+![Caxia de pesquisa](assets/imagens/github-caixa-de-pesquisa.png)
 
 Para mais detalhes e conhecer mais sobre a pesquisa integrada do **GitHub**, acesse [este tutorial](BUSCA_DE_CONTEUDO.md)
 
